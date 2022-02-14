@@ -6,5 +6,6 @@ public class hello {
         System.out.println("第二次提交！");
         System.out.println("第三次提交！");
         System.out.println("hot-fix!");
+        System.out.println("pull-test!");
     }
 }
